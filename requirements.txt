@@ -1,3 +1,3 @@
-Flask
-sympy
-gunicorn
+Flask==2.0.1
+sympy==1.13.3
+gunicorn==23.0.0
